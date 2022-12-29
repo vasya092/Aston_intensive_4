@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="main_activity_hour_hand_width">3dp</dimen>
+    <dimen name="main_activity_hand_width">2dp</dimen>
+    <dimen name="clock_hand_default_width">2dp</dimen>
+    <dimen name="main_activity_second_hand_width">2dp</dimen>
+    <dimen name="clock_view_margin">20dp</dimen>
+    <dimen name="clock_view_numbers_margin">15dp</dimen>
+    <dimen name="clock_fontSize">16sp</dimen>
+    <dimen name="clock_view_default_second_margin">15dp</dimen>
+    <dimen name="clock_view_default_minute_margin">40dp</dimen>
+    <dimen name="clock_view_default_hour_margin">70dp</dimen>
+    <dimen name="clock_view_center_dot_radius">3dp</dimen>
+</resources>

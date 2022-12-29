@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="clock_face">@color/white</color>
+    <color name="default_hand_color">@color/white</color>
+</resources>
